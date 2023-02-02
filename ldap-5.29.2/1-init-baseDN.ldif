@@ -1,0 +1,8 @@
+version: 1
+
+dn: dc=ecp,dc=org
+objectClass: top
+objectClass: dcObject
+objectClass: organization
+o: ecloudpacs.com
+dc: ecp
